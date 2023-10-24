@@ -7,3 +7,148 @@
   ],
   "profile": { "name": "typicode" }
 }
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Tradicional"
+      },
+      {
+        "id": 6,
+        "tipo": "Pão Francês"
+      },
+      {
+        "id": 7,
+        "tipo": "Pão Mexicano"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Frango"
+      },
+      {
+        "id": 6,
+        "tipo": "Costela Bovina"
+      },
+      {
+        "id": 7,
+        "tipo": "Costela Suína"
+      },
+      {
+        "id": 8,
+        "tipo": "Ponta de Peito"
+      },
+      {
+        "id": 9,
+        "tipo": "Fraudinha"
+      },
+      {
+        "id": 10,
+        "tipo": "Mignon"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 7,
+        "tipo": "Frango desfiado"
+      },
+      {
+        "id": 8,
+        "tipo": "Presunto Parma"
+      },
+      {
+        "id": 9,
+        "tipo": "Mussarela"
+      },
+      {
+        "id": 10,
+        "tipo": "Azeitona"
+      },
+      {
+        "id": 11,
+        "tipo": "Alface"
+      },
+      {
+        "id": 12,
+        "tipo": "Hamburger adicional"
+      },
+      {
+        "id": 13,
+        "tipo": "Ovo"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": []
+}
